@@ -9,9 +9,7 @@ import SistemasOPage from './page/sistemasOperativos';
 import HomePage from './page/newHomePage';
 import AboutMe from './page/aboutMe';
 
-
-
-
+//Mejorando Fljo
 
 function App() {
   return (
