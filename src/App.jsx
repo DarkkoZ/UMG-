@@ -6,7 +6,7 @@ import ArquitecturaPage from './page/arquitecturaDeComp';
 import ProgramacionPage from './page/programacion';
 import RedesPage from './page/redes';
 import SistemasOPage from './page/sistemasOperativos';
-import HomePage from './page/homePage';
+import HomePage from './page/homePages';
 import AboutMe from './page/aboutMe';
 
 
